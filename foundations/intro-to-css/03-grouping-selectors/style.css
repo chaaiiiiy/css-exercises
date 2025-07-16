@@ -1,0 +1,15 @@
+.night, 
+.day {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.night{
+    background-color: black;
+    color: white;
+}
+
+.day {
+    background-color: yellow;
+}
+
